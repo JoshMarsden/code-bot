@@ -1,2 +1,3 @@
 credentials.py
 *.swp
+__pycache__/*
